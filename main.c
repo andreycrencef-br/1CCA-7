@@ -7,5 +7,6 @@ int main () {
     printf("RM: 573840\n");
     printf ("Idade: 20\n");
     printf("Aluno: Fernando Bonfim Hoefle\n");
+    printf("RM: 569920\n");
     return 0; 
 }
