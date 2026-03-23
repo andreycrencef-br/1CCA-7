@@ -10,6 +10,7 @@ int main () {
     printf("RM: 569920\n");
     printf ("Idade: 20\n");
     printf("Aluno: Arthur de Oliveira Carvalho\n");
+    printf("RM: 573499\n");
 
     return 0;
 }
